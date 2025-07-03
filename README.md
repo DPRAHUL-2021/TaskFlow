@@ -94,8 +94,6 @@ _Note: You can use `npm` equivalents if you prefer._
 - **UI Components:** Custom & Radix UI ✨
 - **State Management:** React Hooks 🧠
 - **Deployment:** Vercel 🚀
-- **Design Automation:** [v0.dev](https://v0.dev) 🤖
-
 
 ---
 
