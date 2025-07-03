@@ -2,7 +2,7 @@
 
 TaskFlow is a sleek, feature-rich Kanban board app built with Next.js, TypeScript, and Tailwind CSS. Effortlessly organize your tasks, track progress, and collaborate—all in a beautiful, responsive interface.  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)]((https://task-flow-gold-sigma.vercel.app/))
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://task-flow-gold-sigma.vercel.app/)
 
 ---
 
